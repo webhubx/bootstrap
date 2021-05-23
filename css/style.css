@@ -1,0 +1,120 @@
+.headsection{}
+
+
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(255 255 255);
+}
+
+.navbar-brand{margin-right: 100px;}
+.logo img {
+    float: left;
+    margin-right: 10px;
+}
+.title{}
+.title h2 {
+    color: white;
+    margin-left: 10px;
+}
+.title h2 span{font-weight: 400;}
+
+
+
+
+.bannersection {
+    background-image: url(/img/banner.png);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding: 150px 0px;
+}
+.banner {
+    max-width: 615px;
+}
+.banner p {
+    font-size: 25px;
+    color: white;
+}
+.banner h2 {
+    font-size: 55px;
+    font-weight: 600;
+    color: white;
+    margin-top: 50px;
+}
+.banner a{    padding: 15px 40px;
+    font-size: 18px;
+    font-weight: 700;
+margin-top: 25px;}
+
+.servicesection {
+    padding: 75px 0px;
+}
+.service{}
+
+.service p {
+    font-size: 20px;
+    
+}
+.service h2 {
+    color: #888282;
+    padding: 25px 0px;
+}
+.icon {
+    background: #F1F1F1;
+    font-size: 80px;
+    padding: 23px;
+    color: white;
+    border: 5px solid #f5f5f5;
+    box-shadow: 0px -3px 2px 0px #999;
+}
+
+.btn-success {
+    color: #fff;
+    background-color: #198754;
+    border-color: #198754;
+    font-weight: 700;
+    font-size: 22px;
+    padding: 10px 30px;
+    margin-bottom: 50px;
+}
+
+.testimonials{}
+.image {
+    text-align: center;
+}
+.image img {
+    border: 5px solid #e4dddd;
+    padding: 2px;
+    
+}
+#quote {
+    width: 100px;
+    margin-bottom: 20px;
+    
+}
+
+.testimonials p {
+    font-size: 20px;
+    font-weight: 300;
+    font-style: italic;
+    margin-left: 42px;
+}
+
+
+#lastbutton {
+    margin: 35px 0px 0 0 !important;
+}
+.foooter {
+    margin: 50px 0px;
+}
+.foooter .fa{
+    background-color: #D7D7D5;
+    color: white;
+    padding: 10px;
+    border-radius: 25px;
+    text-decoration: none;
+}
+
+.social {
+    margin-top: 100px;
+}
